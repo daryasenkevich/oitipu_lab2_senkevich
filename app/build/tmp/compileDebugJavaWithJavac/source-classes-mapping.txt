@@ -1,0 +1,6 @@
+com/mikhailovskii/oitipu/lab2/databinding/ActivityMainBinding.java
+ com.mikhailovskii.oitipu.lab2.databinding.ActivityMainBinding
+com/mikhailovskii/oitipu/lab2/BuildConfig.java
+ com.mikhailovskii.oitipu.lab2.BuildConfig
+com/mikhailovskii/oitipu/lab2/databinding/FragmentSettingBottomSheetBinding.java
+ com.mikhailovskii.oitipu.lab2.databinding.FragmentSettingBottomSheetBinding

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\asus\\Documents\\4курс\\андройд\\Lab2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\asus\\Documents\\4курс\\андройд\\Lab2\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Documents\\4курс\\андройд\\Lab2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_setting_bottom_sheet.xml",
+        "source": "C:\\Users\\asus\\Documents\\4курс\\андройд\\Lab2\\app\\src\\main\\res\\layout\\fragment_setting_bottom_sheet.xml"
+    }
+]
